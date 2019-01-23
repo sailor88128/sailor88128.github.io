@@ -1,3 +1,3 @@
 ## 测试搭建blog
-Hello. Welcome.
+学海无涯，回头是岸，学到老活到老。
 使用 jekyll搭建个人blog，测试一下。
